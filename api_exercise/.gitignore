@@ -1,0 +1,5 @@
+config.py
+weather.csv
+weather.txt
+__pycache__/
+*.pyc
