@@ -14,6 +14,7 @@ Standard across the whole internet, not specific to any API.
 | 500  | Server broke (their fault, retry later) |
 
 First digit is the rule:
+
 2xx = it worked, 3xx = moved elsewhere,
 4xx = request was wrong (my fault), 5xx = server broke (their fault).
 
