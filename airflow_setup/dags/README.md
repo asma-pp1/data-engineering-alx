@@ -1,4 +1,4 @@
-# Airflow Orchestration Exercise
+# Setting Up a Workflow in Apache Airflow
 
 A first Apache Airflow pipeline: a simple ETL DAG with three tasks
 (fetch, process, store), plus a second version that adds a data
